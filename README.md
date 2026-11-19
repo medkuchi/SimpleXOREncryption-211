@@ -20,11 +20,11 @@ Through researching this topic, I explored:
 
 The code provided helps you see simple XOR encryption implemented through the code.
 
-encrypt-decrypt.c : Takes in a message and a key and encrypts it. Prints out the original, encrypted in hex decrypted. 
+- encrypt-decrypt.c : Takes in a message and a key and encrypts it. Prints out the original, encrypted in hex decrypted. 
 
-process.c : Takes in a message and a key and encrypts it. Shows you the binary of both the input message and the key and the result of the XOR operation in binary, hex, and decimal.
+- process.c : Takes in a message and a key and encrypts it. Shows you the binary of both the input message and the key and the result of the XOR operation in binary, hex, and decimal.
 
-diff-representations.c : Shows you the different representations (Binary, hex, decimal, ASCII) for every value and the result. 
+- diff-representations.c : Shows you the different representations (Binary, hex, decimal, ASCII) for every value and the result. 
 
 ### To see how it works:
 - Optional: Put in your own message and key. 
@@ -35,5 +35,5 @@ diff-representations.c : Shows you the different representations (Binary, hex, d
 
 #### Resources
 
-Used ChatGPT to explore this topic. 
-Permalink: https://chatgpt.com/share/6aff09dc-0434-83e9-8930-4a24efc99e03
+Used ChatGPT to explore this topic.
+- Permalink: https://chatgpt.com/share/6aff09dc-0434-83e9-8930-4a24efc99e03
